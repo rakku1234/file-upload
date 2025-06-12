@@ -4754,16 +4754,16 @@
         },
         {
             "name": "spatie/laravel-discord-alerts",
-            "version": "1.7.0",
+            "version": "1.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/laravel-discord-alerts.git",
-                "reference": "16cc2fde3df04f4405f21b084e84553efbc3e783"
+                "reference": "ef73f2c9a8a02f3a0700418f68b3e4446cbf5b3a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/laravel-discord-alerts/zipball/16cc2fde3df04f4405f21b084e84553efbc3e783",
-                "reference": "16cc2fde3df04f4405f21b084e84553efbc3e783",
+                "url": "https://api.github.com/repos/spatie/laravel-discord-alerts/zipball/ef73f2c9a8a02f3a0700418f68b3e4446cbf5b3a",
+                "reference": "ef73f2c9a8a02f3a0700418f68b3e4446cbf5b3a",
                 "shasum": ""
             },
             "require": {
@@ -4826,7 +4826,7 @@
             ],
             "support": {
                 "issues": "https://github.com/spatie/laravel-discord-alerts/issues",
-                "source": "https://github.com/spatie/laravel-discord-alerts/tree/1.7.0"
+                "source": "https://github.com/spatie/laravel-discord-alerts/tree/1.8.0"
             },
             "funding": [
                 {
@@ -4834,7 +4834,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-02-25T15:53:39+00:00"
+            "time": "2025-05-20T08:42:52+00:00"
         },
         {
             "name": "spatie/laravel-package-tools",
